@@ -1,5 +1,11 @@
+![image](https://user-images.githubusercontent.com/29519472/188280943-8f5a7536-48b0-45b3-9e84-2f673a5c76d5.png)
+
+
+
 - 👋 Hi, I’m @vikmokut (Victor Mokut)
-- 👀 I’m interested in Data Science but currently studying SWE @alx with Holberton School of Computer Sc.
+- 👀 I’m interested in Data Science and application of machine learning and AI in healthcare.
+-  ![image](https://user-images.githubusercontent.com/29519472/188281066-8b65a639-19e1-4554-9641-a1c4dc481809.png)
+ In view of my goals, I am currently studying SWE @alx with Holberton School of Computer Sc.
 - 💞️ I’m looking to collaborate on Health & Public Health projects, and much more, to enhanace healthcare management.
 - 📫 How to reach me: vikmokut@gmail.com; vikmokut@yahoo.com; +2347032182007.
 
