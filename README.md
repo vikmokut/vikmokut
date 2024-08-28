@@ -1,19 +1,15 @@
 #
 ![image](https://user-images.githubusercontent.com/29519472/188288707-83e85bfe-89b8-4c40-971b-a310c0f1cd2a.png)
 
-## Welcome to my World
+## Welcome to my github repo.
 
 👋 Hello there, I’m @vikmokut (Victor Mokut)
 
-Learn a bit about my big dreams from this brief readme.
+It has been quite a journey, but certainly an interesting one.
 
-- I am a professional Health Information Administrator.
-- I Seek to implement and leverage information technology to enhance proper medical practice & health care management.
-- 👀 I have a strong interest in Data Science and the application of machine learning and AI in healthcare.
+- I am Cyber Security Enthusiast - currently studying for my degree while exploring beyond the walls of academics and enjoying the journey as I go.
 - ![image](https://user-images.githubusercontent.com/29519472/188281486-dca1fff3-31a2-403a-a0c4-849afd2efcef.png)
-In view of my goals, I am currently studying SWE @alx with Holberton School of Computer Sc.
-- 💞️ I’m looking to collaborate on Health & Public Health projects, and much more, to enhanace healthcare management.
-- 📫 How to reach me: vikmokut@gmail.com; vikmokut@yahoo.com; +2347032182007.
+- 📫 How to reach me: vikmokut@gmail.com;
 
 #
 #
