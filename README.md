@@ -1,4 +1,5 @@
 #
+![soc](https://github.com/user-attachments/assets/38d3e6bf-3c89-40d5-ba8d-3fdc7d6f3482)
 ![image](https://user-images.githubusercontent.com/29519472/188288707-83e85bfe-89b8-4c40-971b-a310c0f1cd2a.png)
 
 ## Welcome to my github repo.
