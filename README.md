@@ -28,6 +28,11 @@ Other key skills include;
 #
 ![image](https://user-images.githubusercontent.com/29519472/188281486-dca1fff3-31a2-403a-a0c4-849afd2efcef.png) Personal Development and Growth:
  - [MIVA Open University](https://miva.university/) - Bachelors Degree in Cybersecurity (2023 - 2026)
+ - [Tryhackme SOC ANALYST PATH](https://tryhackme.com/p/vikmokut) (2023)
+<!--- 
+- <script src="https://tryhackme.com/badge/1993282"></script>
+ - <img src="https://tryhackme-badges.s3.amazonaws.com/vikmokut.png" alt="TryHackMe">
+ --->
  - Google Cybersecurity Certification (2023)
  - School of Health Information Management - Higher Diploma in Health Information Management (2013 - 2016)
  - Community Comprehensive Secondary School - Senior Secondary Certificate of Education (SSCE)
