@@ -3,17 +3,21 @@
 
 👋 Hello there
 #
-## Welcome to Victor's repo!
+## Welcome to Viktor's repo!
 
-Victor Mokut is a cybersecurity enthusiast and currently studying for a Bachelors Degree in Cybersecurity, transitioning from healthcare administration and possesses core skills in the following areas:
+Victor Mokut is a tech enthusiast with interest in information security and complex programmatic computations (designing efficient algorithms to handle computational problems and using computing power effectively to solve real-world problems) - currently studying for his Comp. Sci. degree while exploring and sharing the intriguing world of tech :)
+He is building core skills in the following areas:
+* Systems design and analysis;
 * Data analysis;
-* Computer programming (python, C, C++);
-* Security Information and Event Management (SIEM) tools;
-* NIST Cybersecurity Framework;
+* Computer programming (python, C/C++, assembly);
+* Web technologies and application development
+<!---
+* information and cyber security;
 * Logical thinking and Problem Solving;
 * Computer Networking and Network Monitoring;
 * Incidence Response;
 * Knowledge of Ticketing Systems and Log Review;
+---> 
 * Linux CLI;
 * Version Control etc.
 
@@ -44,8 +48,6 @@ Other key skills include;
  - [Github](https://github.com/vikmokut)
  - [Medium](https://medium.com/@vikmokut)
  - [Tryhackme](https://tryhackme.com/p/vikmokut)
-#
-![soc1](https://github.com/user-attachments/assets/ea43d25d-2c0c-4cff-8685-b37b08859bcc)
 #
 <!---
 vikmokut/vikmokut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
