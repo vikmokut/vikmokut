@@ -1,9 +1,5 @@
 #
-<!---
-![soc](https://github.com/user-attachments/assets/576800e7-d468-4234-aa33-315691dbc829)
---->
 ![my_banner](https://github.com/user-attachments/assets/966aad43-a67d-4c8f-b312-74e7ca20c890)
-
 👋 Hello there
 ## Welcome to Viktor's repo!
 
@@ -42,6 +38,12 @@ Other key skills include;
  - [Tryhackme](https://tryhackme.com/p/vikmokut)
  - [YouTube](youtube.com/@victormokut)
 #
+
+
+<!--- Here are the unused stuff --->
+<!---
+![soc](https://github.com/user-attachments/assets/576800e7-d468-4234-aa33-315691dbc829)
+--->
 <!---
 * information and cyber security;
 * Logical thinking and Problem Solving;
