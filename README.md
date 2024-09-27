@@ -1,6 +1,7 @@
 #
+<!---
 ![soc](https://github.com/user-attachments/assets/576800e7-d468-4234-aa33-315691dbc829)
-
+--->
 👋 Hello there
 #
 ## Welcome to Viktor's repo!
