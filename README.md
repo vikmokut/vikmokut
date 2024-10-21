@@ -11,8 +11,7 @@ I am a tech enthusiast with strong interest in information and computer security
 * Web technologies and application development
 * Linux CLI
 * Version Control
-
-Other key skills include;
+#### Other key skills include;
 * Adaptability
 * Personal and interpersonal communication skills
 * Organizational skill
@@ -20,7 +19,7 @@ Other key skills include;
 * Ability to work logically and creatively
 * Highly focused and consistent
 * Commitment
-<br>
+#
 ![image](https://user-images.githubusercontent.com/29519472/188281486-dca1fff3-31a2-403a-a0c4-849afd2efcef.png) Personal Development and Growth:
  - [MIVA Open University](https://miva.university/) - Bachelors Degree in Computer Science (2023 - 2026)
  - [Tryhackme Ethical Hacking](https://tryhackme.com/p/vikmokut) (2023 - Date)
@@ -28,7 +27,7 @@ Other key skills include;
  - School of Health Information Management - Higher Diploma in Health Information Management (2013 - 2016)
 <!-- - Community Comprehensive Secondary School - Senior Secondary Certificate of Education (SSCE)
  - Evangel International School - First School Leaving Certificate (FLSC) -->
- <br>
+#
 📫 Contacts:
  - [Email Address](vikmokut@gmail.com)
  - [Github](https://github.com/vikmokut)
