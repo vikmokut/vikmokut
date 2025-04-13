@@ -3,7 +3,7 @@
 👋 Hi there
 <!-- ## Welcome to Viktor's repo! -->
 
-I am a tech enthusiast with strong interest in information and computer security, building complex programmatic computations; designing efficient algorithms to handle computational problems and using computing power effectively to solve real-world security problems.
+I am a tech enthusiast with strong interest in AI/ML and designing efficient algorithms to handle computational problems, using computing power efficiently to solve real-world problems.
 
 #### Core skills:
 * Systems design and analysis;
