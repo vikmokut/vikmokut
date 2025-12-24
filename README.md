@@ -4,9 +4,9 @@ A tech enthusiast with strong interest in designing and building intelligent sys
 #### Core skills:
 * Computer programming - C/C++/Java
 * Python (Django & the Data Science Ecosystem)
-* ML & Computer Vision
+* ML/Data Science
 * Systems design and analysis
-* Web technologies and application development
+* Web application development
 * Linux CLI
 * Version Control
 * REST API
@@ -19,20 +19,15 @@ A tech enthusiast with strong interest in designing and building intelligent sys
 * Ability to work logically and creatively
 * Highly focused and consistent
 * Commitment
-#
+
 #### Personal Development and Growth:
- - [MIVA Open University](https://miva.university/) - Bachelors Degree in Computer Science (CGPA: 5.0 - Ongoing)
+ - [MIVA Open University](https://miva.university/) - Bachelors Degree in Computer Science
  - [WorldQuant University](https://wqu.edu/) - Certificate in Applied Data Science/Computer Vision
- - School of Health Information Management - Higher Diploma (CGPA: 4.68)
- - Community Comprehensive Secondary School - Senior Secondary Certificate of Education (SSCE)
- - Evangel International School - First School Leaving Certificate (FLSC)
-#
+ - School of Health Information Management - Advanced Diploma
+
 #### Contacts:
  - [Email Address](vikmokut@gmail.com)
- - [Github](https://github.com/vikmokut)
- - [Linkedin](https://linkedin.com/in/victormokut)
  - [Medium](https://medium.com/@vikmokut)
-<!-- [Portfolio Site](vikmokut.github.io/myportfolio)
-[Tryhackme](https://tryhackme.com/p/vikmokut)
-[YouTube](youtube.com/@victormokut)  -->
+ - [Portfolio Site](vikmokut.github.io/myportfolio)
+
 <br>
