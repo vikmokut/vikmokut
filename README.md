@@ -4,7 +4,7 @@ Hi, i'm Victor Mokut.
 * 👷🏽‍♂️ I have tinkered with several languages and computing fields to sooth my curiosity.
 * 🎓 I am currently studying computer science.
 * 📚 I am currently learning Golang.
-* 🧘🏽‍♂️ Hmmm, social media - really, there is too much good information there it's distracting, so no accounts for now.
+* 🧘🏽‍♂️ I have zero social media presence - no accounts for now and i'm not a nerd, just choice.
 #
 #### Contacts:
  - [Email Address](vikmokut@gmail.com)
